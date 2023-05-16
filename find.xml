@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'seleniumTest'" />
-    <option name="defaultScopeName" value="Project 'seleniumTest'" />
-    <option name="SEARCH_SCOPE" value="Project 'seleniumTest'" />
+    <option name="customScope" value="File '.../e2e-selenium/src/test/java/info/seleniumcucumber/userStepDefintions/UserStepDefinitions.java [e2e-selenium]'" />
+    <option name="defaultScopeName" value="File '.../e2e-selenium/src/test/java/info/seleniumcucumber/userStepDefintions/UserStepDefinitions.java [e2e-selenium]'" />
+    <option name="SEARCH_SCOPE" value="File '.../e2e-selenium/src/test/java/info/seleniumcucumber/userStepDefintions/UserStepDefinitions.java [e2e-selenium]'" />
   </component>
 </application>
